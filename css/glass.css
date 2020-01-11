@@ -1,0 +1,33 @@
+
+.grid-container{
+    
+    grid-gap: 10px;
+    min-width: 10%;
+    max-width: 100%;
+    grid-template-columns:20% 20% 20% 20% 20%;
+    grid-template-rows:20% 20% 20% 20% 20%;
+    overflow: auto;
+    margin-top: 20px;
+    margin: 40px;
+}
+
+
+
+.box{
+    background-color: white;
+    height: 550px;
+    margin: 50px;
+}
+
+body{
+    background-color:lightblue;
+    position: relative;
+    }
+
+    p{
+        text-align: center;
+    }
+
+    h1{
+        text-align: center;
+    }
