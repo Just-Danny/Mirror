@@ -1,0 +1,40 @@
+
+
+
+.box{
+    background-color: white;
+    height: 450px;
+    margin: auto;
+    width: 650px;
+}
+
+body{
+    background-color:rgb(34, 185, 255);
+    position: relative;
+    }
+
+    input{
+        height:auto;
+        width:auto;
+    }
+
+ div p{
+        text-align: center;
+        font-size: 30px;
+    }
+
+    h1{
+        text-align: center;
+        background-color: gray;
+        font-size:70px;
+    }
+
+    a{
+        text-decoration: none;
+        color: white;
+    }
+.p{
+    text-align: center;
+        font-size: 30px;
+        color: white;
+}
